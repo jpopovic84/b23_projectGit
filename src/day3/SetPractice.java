@@ -7,6 +7,7 @@ public class SetPractice {
         //main method
         // create custom method
         // SDLC- software development life cycle
+        // STLC - software testing life cycle
 
 
 
