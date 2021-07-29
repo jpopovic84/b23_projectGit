@@ -4,7 +4,10 @@ public class MovieClass {
 
     // new movie came out with Matt Diamond
 
-    // this is my test from the master
+    //this is an update on movie class
+    // this will be second change
+
+
 
 
 }
