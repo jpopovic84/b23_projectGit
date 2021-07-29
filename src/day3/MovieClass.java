@@ -5,6 +5,7 @@ public class MovieClass {
 
         //new class
         // Lego movie
+        // watching movie 25 min
 
     }
 
