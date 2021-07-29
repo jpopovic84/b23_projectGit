@@ -10,7 +10,7 @@ public class ListPractice {
         // What's new today?
         ArrayList<Integer> list = new ArrayList<>();
         list.add(123);
-
+       // print it out
 
 
     }
