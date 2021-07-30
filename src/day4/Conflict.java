@@ -4,6 +4,7 @@ public class Conflict {
     public static void main(String[] args) {
 
         //just created new file
+        // this is the collection branch content
 
     }
 }
