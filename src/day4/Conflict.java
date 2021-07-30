@@ -9,6 +9,9 @@ public class Conflict {
         //just created new file
         // this is the collection branch content
         // This is my final version
+
+        //This is the change collection2 branch, does not about it
+
     }
 
 }
